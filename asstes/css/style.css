@@ -1,0 +1,35 @@
+body {
+  font-family: 'Poppins', sans-serif;
+  background: linear-gradient(120deg, #e6fff2, #ffffff);
+  margin: 0;
+  padding: 0;
+}
+
+.hero {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 80vh;
+  background: url('../img/pharmacy-bg.jpg') no-repeat center center/cover;
+}
+
+.glass {
+  background: rgba(255,255,255,0.2);
+  backdrop-filter: blur(10px);
+  padding: 2rem;
+  border-radius: 15px;
+}
+
+button {
+  background: linear-gradient(90deg, #00c853, #64dd17);
+  border: none;
+  padding: 10px 20px;
+  color: white;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+button:hover {
+  transform: scale(1.05);
+}
