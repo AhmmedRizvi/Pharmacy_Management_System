@@ -64,7 +64,7 @@ Customer Panel
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/Pharmacy_Management_System.git
+git clone https://github.com/AhmmedRizvi/Pharmacy_Management_System.git
 ```
 
 2. Move the project folder to the web server directory (`htdocs` for XAMPP).
