@@ -64,7 +64,7 @@ Customer Panel
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/sheba-clinic-pharmacy-management-system.git
+git clone https://github.com/your-username/Pharmacy_Management_System.git
 ```
 
 2. Move the project folder to the web server directory (`htdocs` for XAMPP).
@@ -88,7 +88,7 @@ config.php
 7. Open the application in your browser:
 
 ```text
-http://localhost/SAD_PROJ
+http://localhost/Pharma_Proj
 ```
 
 ## Project Objectives
