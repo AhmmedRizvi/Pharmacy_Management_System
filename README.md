@@ -100,7 +100,8 @@ http://localhost/Pharma_Proj
 ## Project Features and Screen Shots
 ### Home page
 <img width="942" height="403" alt="image" src="https://github.com/user-attachments/assets/02cb492b-934f-4eea-b3ce-6ffc9d43e32e" />
-<img width="660" height="164" alt="image" src="https://github.com/user-attachments/assets/85683802-ce46-4a0a-97f8-cf39b5fca0a0" />
+<img width="935" height="304" alt="image" src="https://github.com/user-attachments/assets/b6854568-bebc-49e8-8822-03ad58b348b8" />
+
 
 
 ### Medicines
