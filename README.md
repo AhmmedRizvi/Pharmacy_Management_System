@@ -116,6 +116,9 @@ http://localhost/Pharma_Proj
 ### Manage Categories 
 <img width="357" height="310" alt="image" src="https://github.com/user-attachments/assets/f24190b4-0fcf-4e7d-ac46-b26ed4e00208" />
 
+### Add Medicine
+<img width="364" height="366" alt="image" src="https://github.com/user-attachments/assets/a4b53033-7a70-42d0-9a69-09323a597d89" />
+
 ### Manage Inventory
 <img width="455" height="346" alt="image" src="https://github.com/user-attachments/assets/d86746fb-f140-4a33-ab31-dc2f04aae9a5" />
 
