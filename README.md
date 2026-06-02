@@ -100,24 +100,34 @@ http://localhost/Pharma_Proj
 ## Project Features and Screen Shots
 ### Home page
 <img width="942" height="403" alt="image" src="https://github.com/user-attachments/assets/02cb492b-934f-4eea-b3ce-6ffc9d43e32e" />
+
 ### Medicines
 <img width="924" height="391" alt="image" src="https://github.com/user-attachments/assets/5c87fdb4-578f-4e6e-8686-69c14e63d578" />
+
 ### Cart 
 <img width="921" height="357" alt="image" src="https://github.com/user-attachments/assets/b65f10fd-dc00-4779-b241-8aeae67f2a76" />
+
 ### Customer and Admin Login page
 <img width="351" height="333" alt="image" src="https://github.com/user-attachments/assets/ed8be54b-a48e-426c-a422-85e71f96bb41" />
+
 ### Admin Login Deshboard 
 <img width="917" height="401" alt="image" src="https://github.com/user-attachments/assets/3157f290-ddad-4c3d-89bc-bd2d21e60a70" />
+
 ### Manage Categories 
 <img width="357" height="310" alt="image" src="https://github.com/user-attachments/assets/f24190b4-0fcf-4e7d-ac46-b26ed4e00208" />
+
 ### Manage Inventory
 <img width="455" height="346" alt="image" src="https://github.com/user-attachments/assets/d86746fb-f140-4a33-ab31-dc2f04aae9a5" />
+
 ### Manage Order
 <img width="569" height="335" alt="image" src="https://github.com/user-attachments/assets/cfccd4b3-3513-4c43-9d08-0b6c14627f8a" />
+
 ### Stock Request
 <img width="447" height="285" alt="image" src="https://github.com/user-attachments/assets/a3b90124-a03f-4d56-8efd-47017e85beb2" />
+
 ### Customer Login Dashboard 
 <img width="925" height="395" alt="image" src="https://github.com/user-attachments/assets/f12ad4fb-84bd-4681-b84c-cc58b9b762ca" />
+
 
 
 
