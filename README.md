@@ -23,6 +23,12 @@ A comprehensive web-based Pharmacy Management System developed using PHP, MySQL,
 * Order Placement and Checkout
 * Real-Time Order Tracking
 
+## Demo Admin Credentials
+
+Email: admin@sheba.com
+Password:  admin123
+
+
 ## Technology Stack
 
 | Technology | Purpose                   |
@@ -90,6 +96,9 @@ config.php
 ```text
 http://localhost/Pharma_Proj
 ```
+## Project Features and Screen Shots
+### Home page
+<img width="942" height="403" alt="image" src="https://github.com/user-attachments/assets/02cb492b-934f-4eea-b3ce-6ffc9d43e32e" />
 
 ## Project Objectives
 
